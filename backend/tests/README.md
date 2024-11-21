@@ -1,3 +1,6 @@
+разрешение на публикацию данного кода было получено либо код не находился под NDA либо уже более не находится под NDA тоесть я могу его показать не нарушая соглашений о коммерческой тайне.
+
+
 # Running Application Tests
 
 This is the quick-start to CodeIgniter testing. Its intent is to describe what
