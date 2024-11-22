@@ -3,5 +3,5 @@
 ## fullstack проект агенства недвижимости CodeIgniter 4, Next.js
 в каждой директории есть свой README.md
 
-![1](https://github.com/s2023alek/rieltor1_frontend/blob/1a4c23caabd06c7ae4843f5b2455a9020bbe8a67/README/Screenshot_1.png)  
-![2](https://github.com/s2023alek/rieltor1_frontend/blob/1a4c23caabd06c7ae4843f5b2455a9020bbe8a67/README/Screenshot_2.png)  
+![1](https://github.com/s2023alek/rieltor_agency_1/blob/e5dc477de01767bd6e60d9754bf3ef3df633b416/README/Screenshot_1.png)  
+![1](https://github.com/s2023alek/rieltor_agency_1/blob/e5dc477de01767bd6e60d9754bf3ef3df633b416/README/Screenshot_2.png)  
